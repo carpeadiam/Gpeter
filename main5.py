@@ -17,7 +17,7 @@ current_slide_index = 0
 current_question_index=0
 topic_contents = []
 
-genai.configure(api_key='AIzaSyDlpNp8jEAPmkim1qu4rrTF8naP1VbwcYg')
+genai.configure(api_key='NOAPIKEY4U')
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 headers = [
